@@ -176,15 +176,21 @@ print("两数之和为：", sum_result)：打印输出加法运算的结果。
 如果您有需要校对的具体文本，请将文本粘贴到输入框中，系统将自动进行检查并提供改正建议。
 
 **拼写检查示例**：
+
 输入：Ths is a smple text.
+
 输出：This is a sample text.
 
 **语法检查示例**：
+
 输入：She go to school every day.
+
 输出：She goes to school every day.
 
 **标点符号检查示例**：
+
 输入：你好今天你有空吗？
+
 输出：你好，今天你有空吗？
 
 ### 注意事项：
